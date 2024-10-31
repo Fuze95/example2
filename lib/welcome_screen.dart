@@ -9,7 +9,7 @@ class WelcomeScreen extends StatelessWidget {
         child: Scaffold(
           body: Column(
             children: [
-              Image.asset('assets/SS.jpg'),
+              Image.asset('assets/welcome.jpg'),
               const SizedBox(
                 height: 20.0,
               ),
